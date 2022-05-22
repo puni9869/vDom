@@ -13,7 +13,7 @@ const createVApp = (count) => createElement('div', {
     String(count),
     ...Array.from({ length: count }, () => createElement('img', {
       attrs: {
-        src: 'https://media.giphy.com/media/cuPm4p4pClZVC/giphy.gif',
+        src: 'https://github.com/favicon.ico',
       },
     })),
   ],
